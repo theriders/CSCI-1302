@@ -1,0 +1,12 @@
+Project 3 (CSCI 1302)
+by Rohan Malik
+
+my packages are uga.csci1302.test and uga.csci1302.myStack
+
+everything for my program can be done with make
+
+'make' compiles everything
+'make test' runs the JUnit test
+'make gui' runs the gui
+'make doc' remakes the javadocs
+'make clean' removes all class files

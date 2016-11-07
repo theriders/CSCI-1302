@@ -1,0 +1,7 @@
+compile my program my running 'make'
+the class files can be deleted by running 'make clean'
+
+my test file creates a CustomerOrder object and then calls its displayMenu() which starts the menu for the entire program
+
+Drink, Appetizer, and Pizza all call their printHeading() and displayMenu() from their constructors, although they also
+have overwritten methods that can be called
