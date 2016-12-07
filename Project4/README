@@ -1,0 +1,6 @@
+Project 4 by Rohan Malik
+
+'make' to compile
+'make doc' to generate javaDocs
+'make clean' to clear class and serialized files
+'make test' run the Demo class

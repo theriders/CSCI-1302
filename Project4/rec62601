@@ -1,0 +1,34 @@
+Project4:
+total 36
+-rw-r--r--. 1 ugrad 4774 Dec  1 22:17 Demo.java
+-rw-r--r--. 1 ugrad 1215 Dec  1 22:17 DoublyNode.java
+-rw-r--r--. 1 ugrad  105 Dec  1 22:17 Makefile
+-rw-r--r--. 1 ugrad 2371 Dec  1 22:17 Person.java
+-rw-r--r--. 1 ugrad    0 Dec  1 22:22 rec62601
+-rw-r--r--. 1 ugrad 5345 Dec  1 22:17 SortedDblList.java
+drwxr-xr-x. 2 ugrad 4096 Dec  1 22:18 stackDoc
+-rw-r--r--. 1 ugrad 1168 Dec  1 22:17 Student.java
+
+Project4/stackDoc:
+total 184
+-rw-r--r--. 1 ugrad  1029 Dec  1 22:18 allclasses-frame.html
+-rw-r--r--. 1 ugrad   929 Dec  1 22:18 allclasses-noframe.html
+-rw-r--r--. 1 ugrad  3507 Dec  1 22:18 constant-values.html
+-rw-r--r--. 1 ugrad  8287 Dec  1 22:18 Demo.html
+-rw-r--r--. 1 ugrad  3457 Dec  1 22:18 deprecated-list.html
+-rw-r--r--. 1 ugrad 13754 Dec  1 22:18 DoublyNode.html
+-rw-r--r--. 1 ugrad  7892 Dec  1 22:18 help-doc.html
+-rw-r--r--. 1 ugrad 16379 Dec  1 22:18 index-all.html
+-rw-r--r--. 1 ugrad  2736 Dec  1 22:18 index.html
+-rw-r--r--. 1 ugrad  4355 Dec  1 22:18 overview-tree.html
+-rw-r--r--. 1 ugrad  1136 Dec  1 22:18 package-frame.html
+-rw-r--r--. 1 ugrad     1 Dec  1 22:18 package-list
+-rw-r--r--. 1 ugrad  4797 Dec  1 22:18 package-summary.html
+-rw-r--r--. 1 ugrad  4364 Dec  1 22:18 package-tree.html
+-rw-r--r--. 1 ugrad 16210 Dec  1 22:18 Person.html
+-rw-r--r--. 1 ugrad   827 Dec  1 22:18 script.js
+-rw-r--r--. 1 ugrad  6720 Dec  1 22:18 serialized-form.html
+-rw-r--r--. 1 ugrad 17333 Dec  1 22:18 SortedDblList.html
+-rw-r--r--. 1 ugrad 12685 Dec  1 22:18 Student.html
+-rw-r--r--. 1 ugrad 12842 Dec  1 22:18 stylesheet.css
+/home/ugrads/malik/cs1302/Project4:/home/work/cs1302a
